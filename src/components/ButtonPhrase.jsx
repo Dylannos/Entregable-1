@@ -11,7 +11,7 @@ const ButtonPhrase = ({ setPhraseRandom, setPathRandom, arrBackground }) => {
     }
 
     return (
-        <button onClick={handleRandomPhrase}>Probar mi Suerte</button>
+        <button onClick={handleRandomPhrase}>Buena Suerte 🍀</button>
     )
 }
  
